@@ -29,7 +29,7 @@ You can omit the output name; it will default to "genesis."
 
 you need nothing more than g++ to build this project.
 
-### Compilation
+## Compilation
 
 1. Clone the repository:
 
@@ -37,7 +37,7 @@ you need nothing more than g++ to build this project.
    git clone https://github.com/your-username/easy68k-linux.git
    ./build.sh
 
-### License 
+## License 
         Modified EASy68K 68000 Assembler for Linux
     Based on EASy68K 68000 Editor/Assembler/Simulator
     Original Copyright (C) 2002-2018 Charles Kelly and Tim Larson
