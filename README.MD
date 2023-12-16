@@ -30,6 +30,7 @@ You can omit the output name; it will default to "genesis."
 You need nothing more than g++ to build this project.
 Compilation
 
+## Compilation
 Clone the repository:
 
 ```bash
