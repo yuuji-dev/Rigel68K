@@ -24,6 +24,7 @@ The EASy68K Assembler is a powerful tool for 68000 assembly language programming
 
 ```bash
 Rigel68K sourceFile.x68 [output]
+```
 
 You can omit the output name; it will default to "genesis."
 
@@ -36,6 +37,7 @@ Clone the repository:
 ```bash
 git clone https://github.com/your-username/easy68k-linux.git
 ./build.sh
+```
 
 ## License
 
