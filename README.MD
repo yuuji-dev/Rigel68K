@@ -6,7 +6,7 @@ This project is a port of the EASy68K 68000 Assembler to run on Linux.
 
 - [Introduction](#introduction)
 - [Features](#features)
-- [Getting Started](#getting-started)
+- [Usage](#Usage)
   - [Compilation](#Compilation)
 - [License](#license)
 
@@ -20,13 +20,14 @@ The EASy68K Assembler is a powerful tool for 68000 assembly language programming
 - 32 and 64 bit support.
 - Linux compatibility.
 
-## Getting Started
+## Usage
 
-    usage :
-        Rigel68K sourceFile.x68 output
-        you can ommit the output name it will default into genesis
+```bash
+Rigel68K sourceFile.x68 [output]
 
-    you should need nothing more than g++ to build that project 
+You can omit the output name; it will default to "genesis."
+
+you need nothing more than g++ to build this project.
 
 ### Compilation
 
